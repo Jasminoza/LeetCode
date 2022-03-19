@@ -1,7 +1,6 @@
 package Problems.Easy;
 
 import java.util.Arrays;
-import java.util.Enumeration;
 
 public class findMaxConsecutiveOnes {
     public static void main(String[] args) {
