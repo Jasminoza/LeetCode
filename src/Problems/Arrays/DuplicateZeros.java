@@ -1,6 +1,4 @@
-package Problems.Easy;
-
-import java.util.Arrays;
+package Problems.Arrays;
 
 public class DuplicateZeros {
 

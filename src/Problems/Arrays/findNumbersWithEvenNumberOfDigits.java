@@ -1,4 +1,4 @@
-package Problems.Easy;
+package Problems.Arrays;
 
 public class findNumbersWithEvenNumberOfDigits {
 
