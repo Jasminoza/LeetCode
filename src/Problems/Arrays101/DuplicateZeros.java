@@ -1,4 +1,4 @@
-package Problems.Arrays;
+package Problems.Arrays101;
 
 public class DuplicateZeros {
 

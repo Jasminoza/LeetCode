@@ -32,7 +32,7 @@
  * -10^3 <= arr[i] <= 10^3
  */
 
-package Problems.Arrays;
+package Problems.Arrays101;
 
 public class CheckIfNandItsDoubleExist {
 

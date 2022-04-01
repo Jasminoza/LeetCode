@@ -1,8 +1,6 @@
-package Problems.Arrays;
+package Problems.Arrays101;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.SortedMap;
 
 /**
  * Given an array arr, replace every element in that array with the greatest
